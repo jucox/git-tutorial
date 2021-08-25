@@ -38,3 +38,5 @@ Cria um novo ponto na linha do tempo apresentando o que e quando foi feito.
 ### git branch -M "algum nome"
 Renomeia o nome da branch principal.
 
+### git checkout -b "new branch"
+Cria uma nova branch e muda para ela automaticamente.
