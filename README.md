@@ -35,8 +35,16 @@ Acrescenta todos os arquivos dentro do repositório para a fila de espera a ser 
 Cria um novo ponto na linha do tempo apresentando o que e quando foi feito.
 
 
+### git push
+Envia todos os commits criados para o repositório.
+
+
 ### git branch -M "algum nome"
 Renomeia o nome da branch principal.
 
+
 ### git checkout -b "new branch"
 Cria uma nova branch e muda para ela automaticamente.
+
+### git pull
+Atualiza seus arquivos para a última versão do repositório.
