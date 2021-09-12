@@ -20,7 +20,7 @@ Instale o Git em sua máquina e, dentro na pasta do seu projeto, inicialize o Gi
 
 
 ### git init
-Inicializa um repositório Git dentro da pasta.
+Inicializa um repositório Git dentro da pasta
 
 
 ### git add <file>
