@@ -47,4 +47,4 @@ Renomeia o nome da branch principal.
 Cria uma nova branch e muda para ela automaticamente.
 
 ### git pull
-Atualiza seus arquivos para a última versão do repositório.
+Atualiza seus arquivos para a última versão do repositório
