@@ -24,27 +24,27 @@ Inicializa um repositório Git dentro da pasta.
 
 
 ### git add <file>
-Acrescenta um determinado arquivo para a fila de espera a ser commitada.
+Acrescenta um determinado arquivo para a fila de espera a ser commitada
 
 
 ### git add .
-Acrescenta todos os arquivos dentro do repositório para a fila de espera a ser commitada.
+Acrescenta todos os arquivos dentro do repositório para a fila de espera a ser commitada
 
 
 ### git commit -m "o que você fez"
-Cria um novo ponto na linha do tempo apresentando o que e quando foi feito.
+Cria um novo ponto na linha do tempo apresentando o que e quando foi feito
 
 
 ### git push
-Envia todos os commits criados para o repositório.
+Envia todos os commits criados para o repositório
 
 
 ### git branch -M "algum nome"
-Renomeia o nome da branch principal.
+Renomeia o nome da branch principal
 
 
 ### git checkout -b "new branch"
-Cria uma nova branch e muda para ela automaticamente.
+Cria uma nova branch e muda para ela automaticamente
 
 ### git pull
 Atualiza seus arquivos para a última versão do repositório
